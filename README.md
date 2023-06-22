@@ -1,12 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vTNWp0OA3qg9dBzhog/giphy.gif" width="200"/>
+  I am a Data Analyst, exploring the world of 
+  <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="200"/>
 </div>
 
 
 
 <div id="header" align="center">
-  I am a Data Analyst, exploring the world of 
-  <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="1"/>
+  
 </div>
 ### :woman_technologist: About Me :
 <div id="badges" align="center">
