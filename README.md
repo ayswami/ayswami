@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" title="PowerBI" alt="PowerBI" width="20" height="40"/>&nbsp;
   <img src="https://dwglogo.com/wp-content/uploads/2016/07/tableau_software_logo.svg" title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
+  <img src="https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_icon.png?h=c673cd1c&itok=YkUJtGl8" title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/metabase.svg" title="Metabase" alt="Metabase" width="30" height="40"/>&nbsp;
    <img src="https://github.com/gilbarbara/logos/blob/main/logos/amplitude-icon.svg" title="Amplitude" **alt="Amplitude" width="30" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
@@ -48,4 +49,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_icon.png?h=c673cd1c&itok=YkUJtGl8
+
