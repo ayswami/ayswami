@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="25" height="40"/>&nbsp;<br>
   <br>
-  To reach me, click here <img src="https://media.giphy.com/media/IgkAPGVX45usUz6eyU/giphy.gif" width=70/>
+  To reach me, click here <img src="https://media.giphy.com/media/IgkAPGVX45usUz6eyU/giphy.gif" width="70"/>
   <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="100" height="100"/>
   </a>
