@@ -33,7 +33,7 @@
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
-    <img src="https://pin.it/2m3ZdEC" title="LinkedIn" **alt="LinkedIn" width="100" height="100"/>
+    <img src="https://tukuz.com/wp-content/uploads/2021/04/university-of-liverpool-logo-vector.png" title="LinkedIn" **alt="LinkedIn" width="100" height="100"/>
   </a>
 </div>
 
