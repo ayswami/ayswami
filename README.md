@@ -20,6 +20,7 @@
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" title="PowerBI" alt="PowerBI" width="20" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/metabase.svg" title="Metabase" alt="Metabase" width="30" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/amplitude-icon.svg" title="Amplitude" **alt="Amplitude" width="30" height="40"/>
 </div>
 
 <div id="header" align="center">
