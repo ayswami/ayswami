@@ -33,7 +33,7 @@
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
-    <img src="https://www.bing.com/images/search?view=detailV2&ccid=HTZBceku&id=4F13FDE24F56A9AADB724A9DBEF9CBA4CE9FA5B0&thid=OIP.HTZBcekuCFcgOu77h_-o8QHaHa&mediaurl=https%3a%2f%2fyt3.ggpht.com%2fa%2fAGF-l78NWKGXqFIULBKCzEm0J-TOkOjHw2Lj8yvDcQ%3ds900-c-k-c0xffffffff-no-rj-mo&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1d364171e92e0857203aeefb87ffa8f1%3frik%3dsKWfzqTL%252bb6dSg%26pid%3dImgRaw%26r%3d0&exph=900&expw=900&q=university+of+liverpool+svg+logo&simid=608036020938018800&FORM=IRPRST&ck=ADD8B21A36F4580AA99CB7F40DAA2CBA&selectedIndex=14&ajaxhist=0&ajaxserp=0" title="LinkedIn" **alt="LinkedIn" width="100" height="100"/>
+    <img src="https://pin.it/2m3ZdEC" title="LinkedIn" **alt="LinkedIn" width="100" height="100"/>
   </a>
 </div>
 
