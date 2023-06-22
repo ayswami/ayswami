@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/vTNWp0OA3qg9dBzhog/giphy.gif" width="100"/><br>
   I am Ananya.<br>
   I am Data Analyst, exploring the world of <br>
-  <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="200"/>
 </div>
 
 <div id="header" align="center">
