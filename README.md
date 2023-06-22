@@ -24,7 +24,9 @@
 </div>
 
 <div id="header" align="center">
-  
+  <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" title="LinkedIn" **alt="LinkedIn" width="30" height="40"/>
+  </a>
 </div>
 
 <div id="badges" align="center">
