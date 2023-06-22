@@ -34,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="25" height="40"/>&nbsp;<br>
   <br>
   To reach me, click here <img src="https://media.giphy.com/media/L0q2q4GH1MZpG6kNOj/giphy.gif" width="70"/><br>
+  <br>
   <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="100" height="50"/>
   </a>&nbsp;
