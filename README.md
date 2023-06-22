@@ -3,7 +3,7 @@
   I am a Data Analyst, exploring the world of <br>
   <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="200"/>
 </div>
-🛠️ Languages & Tools :
+👩‍💻 Technical Prowess :
 
 
 <div id="header" align="center">
