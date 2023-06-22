@@ -2,10 +2,8 @@
   <img src="https://media.giphy.com/media/vTNWp0OA3qg9dBzhog/giphy.gif" width="150"/><br>
   I am Ananya.<br>
   I am a Data Enthusiast, wrangling and testing groundbreaking recipes from <br>
-  <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="300"/>
-</div>
-
-<div id="header" align="center">
+  <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="300"/><br>
+  with technical prowess in following languages and softwares<br>
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.svg" title="C Programming" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
