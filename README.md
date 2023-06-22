@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vTNWp0OA3qg9dBzhog/giphy.gif" width="150"/><br>
   I am Ananya.<br>
-  I am a Data Analyst, wrangling and testing new recipes from <br>
+  I am a Data Analyst, wrangling and testing groundbreaking recipes from <br>
   <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="300"/>
 </div>
 
