@@ -38,19 +38,3 @@
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="100" height="100"/>
   </a>
 </div>
-  
-
-
-<div id="header" align="center">
-  <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
-    <img src="https://tukuz.com/wp-content/uploads/2021/04/university-of-liverpool-logo-vector.png" title="LinkedIn" **alt="LinkedIn" width="100" height="100"/>
-  </a>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<img src="https://dwglogo.com/wp-content/uploads/2016/07/tableau_software_logo.svg" title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
