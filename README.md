@@ -3,7 +3,7 @@
   I am Ananya.<br>
   I am a Data Enthusiast, wrangling and testing groundbreaking recipes from <br>
   <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="300"/><br>
-  with technical prowess in following languages and softwares
+  with technical prowess in following languages and softwares<br>
   ---
 </div>
 
