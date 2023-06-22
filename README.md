@@ -24,22 +24,22 @@
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" title="PowerBI" alt="PowerBI" width="20" height="40"/>&nbsp;
   <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" title="Tableau" alt="Tableau" width="30" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/metabase.svg" title="Metabase" alt="Metabase" width="30" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/amplitude-icon.svg" title="Amplitude" **alt="Amplitude" width="30" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/amplitude-icon.svg" title="Amplitude" alt="Amplitude" width="30" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="25" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="25" height="40"/>&nbsp;<br>
   <br>
-</div>
-  
-<div id="header" align="center">
+  You can reach me via 
   <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" title="LinkedIn" **alt="LinkedIn" width="100" height="100"/>
   </a>
 </div>
+  
+
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
