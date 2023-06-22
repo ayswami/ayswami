@@ -19,8 +19,8 @@
 <div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" title="PowerBI" alt="PowerBI" width="20" height="40"/>&nbsp;
-  <img src="https://dwglogo.com/wp-content/uploads/2016/07/tableau_software_logo.svg" title="Tableau" alt="Tableau" width="20" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/metabase.svg" title="Metabase" alt="Metabase" width="100" height="40"/>&nbsp;
+  <img src="https://dwglogo.com/wp-content/uploads/2016/07/tableau_software_logo.svg" title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/metabase.svg" title="Metabase" alt="Metabase" width="30" height="40"/>&nbsp;
    <img src="https://github.com/gilbarbara/logos/blob/main/logos/amplitude-icon.svg" title="Amplitude" **alt="Amplitude" width="30" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
