@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="30" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" title="PowerBI" alt="PowerBI" width="20" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/metabase.svg" title="Metabase" alt="Metabase" width="30" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
