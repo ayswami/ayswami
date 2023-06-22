@@ -38,6 +38,6 @@
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="100" height="100"/>
   </a>
   <a href="https://www.instagram.com/the_psycho_brat/">
-    <img src="https://www.pinclipart.com/picdir/middle/119-1198369_instagram-2016-logo-svg-vector-amp-png-transparent.png" title="Instagram" alt="Instagram" width="100" height="100"/>
+    <img src="https://www.pinclipart.com/picdir/big/119-1198369_instagram-2016-logo-svg-vector-amp-png-transparent.png" title="Instagram" alt="Instagram" width="70" height="100"/>
   </a>
 </div>
