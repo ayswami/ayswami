@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  I am a Data Analyst :uk:, exploring the world of Data Science <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="30"/>
+  I am a Data Analyst, exploring the world of <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="70"/>
 </div>
 ### :woman_technologist: About Me :
 <div id="badges" align="center">
