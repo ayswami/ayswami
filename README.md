@@ -37,4 +37,7 @@
   <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="100" height="100"/>
   </a>
+  <a href="https://www.instagram.com/the_psycho_brat/">
+    <img src="https://th.bing.com/th/id/OIP.DWugoLIiK6MIiv5sfToTQQAAAA?pid=ImgDet&rs=1" title="LinkedIn" alt="LinkedIn" width="100" height="100"/>
+  </a>
 </div>
