@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="25" height="40"/>&nbsp;<br>
   <br>
   <img src="https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/event_teaser_image/ml-at-b.png?itok=W9si17Kf" width="100" height="100"/> <img src="https://media.giphy.com/media/9JwWAFSXIy3g1bzVTg/giphy.gif" width="100" height="40"/>&nbsp;<br>
-  Click to reach <img src="https://media.giphy.com/media/L0q2q4GH1MZpG6kNOj/giphy.gif" width="70"/><br>
+  Click to reach<br><img src="https://media.giphy.com/media/L0q2q4GH1MZpG6kNOj/giphy.gif" width="70"/><br>
   <br>
   <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="100" height="50"/>
