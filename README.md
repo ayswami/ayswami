@@ -5,7 +5,7 @@
   I am Ananya.<br>
   I am a Data Enthusiast, wrangling and testing groundbreaking recipes from <br>
   
-  <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="300"/><br>
+  <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="300"/><img src="https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/event_teaser_image/ml-at-b.png?itok=W9si17Kf" width="100" height="100"/>&nbsp;<br>
   <br>
   
   with technical prowess in following languages and softwares<br>
@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="25" height="40"/>
   <img src="https://media.giphy.com/media/9JwWAFSXIy3g1bzVTg/giphy.gif" width="100" height="50"/>&nbsp;<br>
   <br>
-  <img src="https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/event_teaser_image/ml-at-b.png?itok=W9si17Kf" width="100" height="100"/>&nbsp;<br>
+  
   Click to reach<br><img src="https://media.giphy.com/media/L0q2q4GH1MZpG6kNOj/giphy.gif" width="70"/><br>
   <br>
   <a href="https://www.linkedin.com/in/ananya-swami-259504121/">
