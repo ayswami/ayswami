@@ -5,7 +5,7 @@
   I am Ananya.<br>
   I am a Data Enthusiast, wrangling and testing groundbreaking recipes from <br>
   
-  <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="300"/><img src="https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/event_teaser_image/ml-at-b.png?itok=W9si17Kf" width="100" height="100"/>&nbsp;<br>
+  <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="300"/><img src="https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/event_teaser_image/ml-at-b.png?itok=W9si17Kf" width="200" height="200"/>&nbsp;<br>
   <br>
   
   with technical prowess in following languages and softwares<br>
