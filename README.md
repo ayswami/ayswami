@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/j1bgJMzlUv3hYqKDK4/giphy.gif" width="300"/><br>
   <br>
   
-  with technical prowess in following languages and softwares<br>
+  with technical prowess in following languages and softwares <img src="https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/event_teaser_image/ml-at-b.png?itok=W9si17Kf" width="40" height="40"/>&nbsp;<br>
   <br>
   
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.svg" title="C Programming" alt="C" width="40" height="40"/>&nbsp;
